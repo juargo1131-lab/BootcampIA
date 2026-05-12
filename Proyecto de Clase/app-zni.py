@@ -94,4 +94,4 @@ df_pivote = df_zni.pivot_table(
 
 st.image('img/Encabezado.jpg')
 
-print('Hola mundo')
+
